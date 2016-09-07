@@ -1,0 +1,52 @@
+.footer-bar {
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+	overflow: hidden;
+}
+
+.tab {
+	width: 45px;
+	display: inline-block;
+	height: 35px;
+}
+
+.box {
+	text-shadow: 0px 0px #848484;
+	-webkit-box-shadow: 1px 1px 1px 1px #848484;
+	box-shadow: 1px 1px 1px 1px #848484;
+	border: thin outset #C0C0C0;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana,
+		sans-serif;
+	list-style-type: disc;
+	color: #3F3E3E;
+}
+
+.sh {
+	display: inline-block;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana,
+		sans-serif;
+}
+
+.ish {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times,
+		"Times New Roman", serif;
+	padding: 5px 50px 10px 50px;
+}
+
+a {
+	color: #000;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+.a1 {
+	color: white;
+	text-transform: uppercase;
+	text-decoration: none;
+}
+
+ol, ul, li {
+	list-style: none outside none;
+}
